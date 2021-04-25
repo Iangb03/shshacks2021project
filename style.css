@@ -1,0 +1,96 @@
+body{
+  background-image: url("Mountains.webp");
+  background-size: cover;
+  font-family: 'Amatic SC', cursive;
+}
+
+h1{
+  text-align:center;
+  line-height:5px;
+font-family: 'Amatic SC', cursive;
+font-size: 50px;
+}
+h2{
+  text-align:center;
+  line-height:5px;
+font-family: 'Amatic SC', cursive;
+  border-bottom:2px solid black;
+  height:20px;
+  font-size: 30px;
+}
+
+div{
+  border: 2px solid green;
+  background-color: lightgreen;
+  text-align: center;
+  user-select:none;
+  opacity:75%;
+  border-radius:5px;
+}
+
+.listDiv {
+  width: 22%;
+  height: 300px;
+  margin-bottom: 5px;
+  text-align: left;
+
+}
+
+.discBoard { 
+  width: 50%;
+  height: 400px;
+  margin-left: 24%;
+  margin-top: -309px;
+}
+
+
+.leadBoard {
+  line-height: 10px;
+  width: 22%;
+  height: 200px;
+  margin-left: 76%;
+  margin-top: -452px;
+  margin-bottom: 5px;
+}
+.subEvi {
+  width: 22%;
+  height: 130px;
+  margin-top: -90px;
+  
+}
+
+.envNews {
+  width: 22%;
+  height: 240px;
+  margin-left: 76%;
+}
+
+.sources {
+  width: 98%;
+  height: 200px;
+  margin-top: 15px;
+  line-height: 10px;
+  
+}
+
+body {
+  padding: 20px;
+}
+button {
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: rgb(0, 207, 69);
+  border: none;
+}
+button:hover {
+  background: rgb(0, 255, 0);
+}
+
+.dMuut {
+  opacity:100%;
+  height:350px;
+  margin-bottom: -300;
+  background-color: red;
+}
+
